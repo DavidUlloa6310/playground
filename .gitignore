@@ -1,1 +1,5 @@
 .DS_STORE
+*/.vscode
+
+# Environments
+tutorials/karpathy_venv/
